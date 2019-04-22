@@ -1,4 +1,7 @@
 language: python
 
+cd env
+source bin/activate
+
 install:
   - pip install requirements.txt
