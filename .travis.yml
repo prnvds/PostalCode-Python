@@ -8,3 +8,9 @@ source bin/activate
 
 script:
     -echo "hello world"
+
+#	cd env
+#	source bin/activate
+	
+#	install:
+#	  - pip install requirements.txt
